@@ -1,0 +1,1 @@
+The CSS code has an unexpected behavior when using a `calc()` function with a percentage and a pixel value. The intended behavior is to have the element's height take up 50% of its container's height, and then add 20 pixels. However, the element's height only takes up 20 pixels.
